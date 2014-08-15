@@ -1,1 +1,1 @@
-See the [Wiki](Home) to get started!
+See the [Wiki](../../wiki) to get started!
